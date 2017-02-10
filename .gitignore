@@ -1,0 +1,8 @@
+*.pyc
+.idea
+
+
+
+instance/
+__pycache__
+migrations/
